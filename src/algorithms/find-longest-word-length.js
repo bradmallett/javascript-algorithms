@@ -1,4 +1,8 @@
 const findLongestWordLength = (str) => {
+    if (!str) {
+        return '';
+    }
+
     const intoArray = str.split(' ');
     
     const findLongest = (largest, current) => {
@@ -12,9 +16,6 @@ const findLongestWordLength = (str) => {
     return longestWord;
 
   };
-  
-  const longest = findLongestWordLength("The quick brown fox jumped over the lazy dog");
-  console.log(longest);
 
   module.exports = findLongestWordLength;
   

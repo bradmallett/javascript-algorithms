@@ -1,0 +1,29 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "Brad's learning javascript problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmallett/javascript-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "testing",
+    "jest"
+  ],
+  "author": "Brad Mallett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradmallett/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/bradmallett/javascript-algorithms#readme",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  },
+  "dependencies": {}
+}
