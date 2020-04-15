@@ -4,5 +4,6 @@ module.exports = {
     confirmEnding: require('./algorithms/confirmEnding'),
     repeatStr: require('./algorithms/repeatStr'),
     truncateStr: require('./algorithms/truncateStr'),
-    findersKeepers: require('./algorithms/findersKeepers')
+    findersKeepers: require('./algorithms/findersKeepers'),
+    booWho: require('./algorithms/booWho')
 };
