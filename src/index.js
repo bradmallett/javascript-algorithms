@@ -5,5 +5,6 @@ module.exports = {
     repeatStr: require('./algorithms/repeatStr'),
     truncateStr: require('./algorithms/truncateStr'),
     findersKeepers: require('./algorithms/findersKeepers'),
-    booWho: require('./algorithms/booWho')
+    booWho: require('./algorithms/booWho'),
+    titleWords: require('./algorithms/titleWords')
 };
