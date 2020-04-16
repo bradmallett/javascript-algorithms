@@ -6,5 +6,6 @@ module.exports = {
     truncateStr: require('./algorithms/truncateStr'),
     findersKeepers: require('./algorithms/findersKeepers'),
     booWho: require('./algorithms/booWho'),
-    titleWords: require('./algorithms/titleWords')
+    titleWords: require('./algorithms/titleWords'),
+    sliceSplice: require('./algorithms/sliceSplice')
 };
