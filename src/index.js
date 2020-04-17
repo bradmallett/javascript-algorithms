@@ -7,5 +7,7 @@ module.exports = {
     findersKeepers: require('./algorithms/findersKeepers'),
     booWho: require('./algorithms/booWho'),
     titleWords: require('./algorithms/titleWords'),
-    sliceSplice: require('./algorithms/sliceSplice')
+    sliceSplice: require('./algorithms/sliceSplice'),
+    falsy: require('./algorithms/falsy')
+
 };
