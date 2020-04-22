@@ -8,6 +8,6 @@ module.exports = {
     booWho: require('./algorithms/booWho'),
     titleWords: require('./algorithms/titleWords'),
     sliceSplice: require('./algorithms/sliceSplice'),
-    falsy: require('./algorithms/falsy')
-
+    falsy: require('./algorithms/falsy'),
+    belong: require('./algorithms/belong')
 };
