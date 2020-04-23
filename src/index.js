@@ -11,6 +11,6 @@ module.exports = {
     falsy: require('./algorithms/falsy'),
     belong: require('./algorithms/belong'),
     mutations: require('./algorithms/mutations'),
-    chunkyMonkey: require('./algorithms/chunkyMonkey')
-
+    chunkyMonkey: require('./algorithms/chunkyMonkey'),
+    rmDuplicates: require('./algorithms/rmDuplicates')
 };
