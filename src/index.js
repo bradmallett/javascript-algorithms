@@ -10,6 +10,7 @@ module.exports = {
     sliceSplice: require('./algorithms/sliceSplice'),
     falsy: require('./algorithms/falsy'),
     belong: require('./algorithms/belong'),
-    mutations: require('./algorithms/mutations')
+    mutations: require('./algorithms/mutations'),
+    chunkyMonkey: require('./algorithms/chunkyMonkey')
 
 };
