@@ -9,5 +9,7 @@ module.exports = {
     titleWords: require('./algorithms/titleWords'),
     sliceSplice: require('./algorithms/sliceSplice'),
     falsy: require('./algorithms/falsy'),
-    belong: require('./algorithms/belong')
+    belong: require('./algorithms/belong'),
+    mutations: require('./algorithms/mutations')
+
 };
